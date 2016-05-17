@@ -5,9 +5,8 @@ Canonical ToDoMVC application built with CLojure and functional-vaadin UI librar
 
 Download from https://github.com/wizardpb/todo.
 
+<!---
 ## Usage
-
-FIXME: explanation
 
     $ java -jar todo-0.1.0-standalone.jar [args]
 
@@ -33,3 +32,4 @@ Copyright © 2016 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
+--->
