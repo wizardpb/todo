@@ -1,10 +1,9 @@
 # todo
-
-FIXME: description
+Canonical ToDoMVC application built with CLojure and functional-vaadin UI library
 
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/wizardpb/todo.
 
 ## Usage
 
