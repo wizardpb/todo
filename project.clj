@@ -4,8 +4,7 @@
   :license {:name "Eclipse Public License"
             :url  "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
-                 [com.prajnainc/functional-vaadin "0.1.0"]
-                 [io.reactivex/rxclojure "1.0.0"]
+                 [com.prajnainc/functional-vaadin "0.1.1"]
                  [com.vaadin/vaadin-server "7.6.5"]
                  [com.vaadin/vaadin-client-compiled "7.6.5"]
                  [com.vaadin/vaadin-themes "7.6.5"]
