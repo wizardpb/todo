@@ -1,6 +1,6 @@
 (defproject com.prajnaic/todo "0.1.0-SNAPSHOT"
   :description "Canonical ToDoMVC app"
-  ;:url "http://example.com/FIXME"
+  :url "https://github.com/wizardpb/todo"
   :license {:name "Eclipse Public License"
             :url  "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
