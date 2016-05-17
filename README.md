@@ -1,5 +1,5 @@
 # todo
-Canonical ToDoMVC application built with CLojure and functional-vaadin UI library
+Canonical ToDoMVC application built with Clojure and functional-vaadin UI library
 
 ## Installation
 
