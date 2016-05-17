@@ -1,4 +1,4 @@
-(defproject com.prajnaic/todo "0.1.0-SNAPSHOT"
+(defproject com.prajnaic/todo "0.1.0"
   :description "Canonical ToDoMVC app"
   :url "https://github.com/wizardpb/todo"
   :license {:name "Eclipse Public License"
