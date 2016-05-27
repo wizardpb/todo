@@ -3,33 +3,26 @@ Canonical ToDoMVC application built with Clojure and functional-vaadin UI librar
 
 ## Installation
 
-Download from https://github.com/wizardpb/todo.
+Download todo-0.1.0-standalone.jar from https://github.com/wizardpb/todo. Alternatively, clone the repo and install Leiningen
 
-<!---
+
 ## Usage
 
-    $ java -jar todo-0.1.0-standalone.jar [args]
+If you've downloaded the standalone jar, cd to the jar dorectory and type:
 
-## Options
+    $ java -jar todo-0.1.0-standalone.jar
+    
+Alternatively, run with Leiningen:
 
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+    $ cd <your-todo-repo-patg>
+    $ lein run
+    
+Either of these will start a Jetty server on port 8080 on your local machine. Visit http://localhost:8080 to see the app
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Prajna Inc
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
---->
+

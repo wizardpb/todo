@@ -171,7 +171,3 @@
       (.join server)
       )))
 
-(defn -main
-  ([bg?] (run-jetty "todo.ToDo" bg?))
-  ([] (-main false))
-  )

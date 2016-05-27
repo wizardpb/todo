@@ -10,7 +10,7 @@
                  [com.vaadin/vaadin-themes "7.6.5"]
                  [org.eclipse.jetty/jetty-server "9.3.8.v20160314"]
                  [org.eclipse.jetty/jetty-servlet "9.3.8.v20160314"]]
-  :main todo.core
+  :main todo.ToDo
   :aot [todo.ToDo]
   )
 

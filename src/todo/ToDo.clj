@@ -2,7 +2,6 @@
   (:require [todo.core :refer :all])
   (:gen-class :name ^{com.vaadin.annotations.Theme "valo"} todo.ToDo
               :extends com.vaadin.ui.UI
-              :main false
               :state state
               :init initUI
               :methods [
@@ -30,4 +29,10 @@
 
 (defn -decItemCount [this]
   (:item-count (swap! (.state this) #(assoc %1 :item-count (dec (:item-count %1))))))
+
+(defn -main
+  ([bg?] (run-jetty "todo.ToDo" bg?))
+  ([] (-main false))
+  )
+
 
