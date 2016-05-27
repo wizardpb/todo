@@ -8,13 +8,13 @@ Download todo-0.1.0-standalone.jar from https://github.com/wizardpb/todo/release
 
 ## Usage
 
-If you've downloaded the standalone jar, cd to the jar dorectory and type:
+If you've downloaded the standalone jar, cd to the jar directory and type:
 
     $ java -jar todo-0.1.0-standalone.jar
     
 Alternatively, run with Leiningen:
 
-    $ cd <your-todo-repo-patg>
+    $ cd <your-todo-repo-path>
     $ lein run
     
 Either of these will start a Jetty server on port 8080 on your local machine. Visit http://localhost:8080 to see the app
