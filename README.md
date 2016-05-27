@@ -3,7 +3,7 @@ Canonical ToDoMVC application built with Clojure and functional-vaadin UI librar
 
 ## Installation
 
-Download todo-0.1.0-standalone.jar from https://github.com/wizardpb/todo. Alternatively, clone the repo and install Leiningen
+Download todo-0.1.0-standalone.jar from https://github.com/wizardpb/todo/releases/tag/v0.1.0. Alternatively, clone the repo and install Leiningen
 
 
 ## Usage
